@@ -539,4 +539,4 @@ mode(sapply(korea_temp, mean))
 # function
 # data 입출력
 
-
+#
