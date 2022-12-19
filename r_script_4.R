@@ -192,7 +192,7 @@ religion_marriage <- welfare  %>%
 
 religion_marriage
 
-
+1
 
 
 
